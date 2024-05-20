@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sdk-client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+463e54fc16706a86a39eb9b2ae7367b341a60b9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6572a34c1cdf9c46e32efb8149b83bb01aac3039")]
 [assembly: System.Reflection.AssemblyProductAttribute("sdk-client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sdk-client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
