@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AZzBVodEE/ctopzfnk+XLzCeLV0jR+6Vo50AWqdFk1GzNR+MMrClIbkWaE6emZ5+zC9v0i5x1G8pcIjGmSczWw==",
+  "dgSpecHash": "GaV9yjOwNNVEwHUlS/EazT2BNPBjQUFbqhKLd1Bv7097/JPGe+yVrWC2I7VtpnzBY6fm+j2xnx1OlQwOYUmpGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\volke\\.vscode\\MS Learn Repos\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
   "expectedPackageFiles": [
@@ -20,11 +20,7 @@
     "C:\\Users\\volke\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\volke\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
     "C:\\Users\\volke\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\volke\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\volke\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\volke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\volke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\volke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+    "C:\\Users\\volke\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
